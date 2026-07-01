@@ -124,14 +124,12 @@ philosophy:    Build systems that are correct under load, safe under audit,
 <table>
 <tr>
 <td align="center" width="20%"><b>Authorization</b><br/><sub>RBAC · ABAC · Hybrid Policy Engines</sub></td>
-<td align="center" width="20%"><b>Multi-Tenancy</b><br/><sub>Tenant Isolation · Schema Strategy</sub></td>
 <td align="center" width="20%"><b>Auditability</b><br/><sub>Immutable Audit Trails · Compliance</sub></td>
 <td align="center" width="20%"><b>Async Systems</b><br/><sub>BullMQ · Background Jobs · Cron</sub></td>
 <td align="center" width="20%"><b>Real-Time</b><br/><sub>WebSockets · Live Dispatch · Pub/Sub</sub></td>
 </tr>
 <tr>
 <td align="center"><b>Event-Driven</b><br/><sub>Domain Events · Decoupled Services</sub></td>
-<td align="center"><b>CQRS</b><br/><sub>Read/Write Separation at Scale</sub></td>
 <td align="center"><b>Caching</b><br/><sub>Redis Strategies · Invalidation</sub></td>
 <td align="center"><b>API Design</b><br/><sub>Scalable, Versioned, Documented</sub></td>
 <td align="center"><b>Data Migration</b><br/><sub>Legacy → Modern, Zero Data Loss</sub></td>
