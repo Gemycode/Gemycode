@@ -33,8 +33,8 @@ I'm a **Backend Engineer** who designs enterprise-scale systems from the databas
 I currently own end-to-end architecture — schema design, authorization modeling, deployment strategy, and technical direction — for a production ERP system serving thousands of active users across 20+ distinct roles.
 
 ```yaml
-role:          Backend Engineer · Technical Lead · Full-Stack Developer
-focus:         Enterprise Systems · Distributed Architecture · Multi-Tenant SaaS
+role:          Backend Engineer · Full-Stack Developer
+focus:         Enterprise Systems · Distributed Architecture 
 authorization: RBAC + ABAC Hybrid Design
 core_stack:    NestJS · PostgreSQL · Prisma · Redis · TypeScript
 philosophy:    Build systems that are correct under load, safe under audit,
