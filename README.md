@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=220&section=header&text=ABDULLAH%20GAMAL&fontSize=52&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Technical%20Lead%20%7C%20SaaS%20Architect&descAlignY=58&descSize=18&descColor=8892b0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=220&section=header&text=ABDULLAH%20GAMAL&fontSize=52&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20SaaS%20Architect&descAlignY=58&descSize=18&descColor=8892b0" width="100%"/>
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/aayushi-b/aayushi-b/output/snake.svg" width="0" height="0"/>
 
-I'm a **Backend Engineer & Technical Lead** who designs enterprise-scale systems from the database up — not just APIs that work, but architectures that survive scale, audits, and multi-year evolution. My focus sits at the intersection of **distributed system design**, **multi-tenant SaaS architecture**, and **fine-grained authorization (RBAC/ABAC)**.
+I'm a **Backend Engineer** who designs enterprise-scale systems from the database up — not just APIs that work, but architectures that survive scale, audits, and multi-year evolution. My focus sits at the intersection of **distributed system design** and **fine-grained authorization (RBAC/ABAC)**.
 
 I currently own end-to-end architecture — schema design, authorization modeling, deployment strategy, and technical direction — for a production ERP system serving thousands of active users across 20+ distinct roles.
 
