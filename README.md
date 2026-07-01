@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Designing+Enterprise-Grade+Backend+Systems;RBAC+%2B+ABAC+%7C+Multi-Tenant+SaaS+%7C+Distributed+Architecture;NestJS+%E2%80%A2+PostgreSQL+%E2%80%A2+Prisma+%E2%80%A2+Redis+%E2%80%A2+Event-Driven+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Designing+Enterprise-Grade+Backend+Systems;RBAC+%2B+ABAC+%7C+Distributed+Architecture;NestJS+%E2%80%A2+PostgreSQL+%E2%80%A2+Prisma+%E2%80%A2+Redis+%E2%80%A2+Event-Driven+Systems)](https://git.io/typing-svg)
 
 <br/>
 
